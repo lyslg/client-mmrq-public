@@ -6,7 +6,7 @@
     "axios": "^0.18.0",
     "formsy-react": "^1.1.5",
     "informed": "^1.10.7",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.21",
     "moment": "^2.22.2",
     "node-sass": "^4.9.4",
     "open-color": "^1.6.3",
